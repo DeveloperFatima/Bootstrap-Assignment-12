@@ -1,0 +1,379 @@
+@media (max-width: 400px){
+    .hero{
+        width: 595px !important;
+        height: 75vh !important;
+    }
+    #fonted{
+        font-size: 20px !important;
+        position: relative;
+        top: -250px !important;
+        left: -20px !important;
+    }
+    .blue{
+        display: none;
+    }
+    .lightblue{
+        display: none;
+    }
+    .navbar{
+        width: 600px !important;
+    }
+    #style{
+        display: none;
+    }
+    #stylesheet{
+        display: none !important;
+    }
+    .paragraph{
+        position: relative;
+        top: -240px !important;
+        left: 30px !important;
+    }
+    .testimonials{
+        position: relative;
+        top: 300px !important;
+    }
+    #speciality{
+        position: relative;
+        left: 280px !important;
+    }
+    #specialitys{
+        position: relative;
+        top: 200px !important;
+    }
+    #fonts{
+        position: relative;
+        top: -350px !important;
+    }
+    .paragraphs{
+        position: relative;
+        top: -330px !important;
+    }
+    #column-1{
+        position: relative;
+        top: 600px !important;
+        left: -500px !important;
+    }
+    #column-2{
+        position: relative;
+        top: 750px !important;
+        left: -870px !important;
+    }
+    #column-3{
+        display: none;
+    }
+    #column-4{
+        position: relative;
+        top: 860px !important;
+        left: -870px !important;
+    }
+    #rowed{
+        position: relative;
+        top: 1100px !important;
+    }
+    #stylesheets{
+        display: none;
+    }
+    #twelve{
+        position: relative;
+        top: 900px !important;
+    }
+    #round-1{
+        position: relative;
+        top: -330px !important;
+        left: 80px !important;
+    }
+    #round-2{
+        position: relative;
+        top: -270px !important;
+        left: 80px !important;
+    }
+    #round-3{
+        position: relative;
+        top: -720px !important;
+        left: 80px !important;
+    }
+    .family{
+        position: relative;
+        left: 15px !important;
+    }
+    .familys{
+        position: relative;
+        left: -10px !important;
+    }
+    #awesome{
+        position: relative;
+        left: 5px !important;
+    }
+    .treats{
+        position: relative;
+        top: 970px !important;
+    }
+    .cards{
+        position: relative;
+        top: 2500px !important;
+    }
+    .pary{
+        position: relative;
+        left: -85px !important;
+    }
+    .images{
+        position: relative;
+        top: -1400px !important;
+        left: -20px !important;
+        height: 40vh;
+    }
+    .contact{
+        display: none;
+    }
+    .footer-area{
+        display: none;
+    }
+    #cards-1{
+        position: relative;
+        top: -200px !important;
+    }
+    #cards-2{
+        position: relative;
+        top: -200px !important;
+        left: -100px;
+    }
+    #cards-3{
+        position: relative;
+        top: -200px !important;
+        left: -200px;
+    }
+    .card{
+        width: 17rem !important;
+    }
+    .alter{
+        height: 110vh !important;
+        width: 660px !important;
+    }
+    .about-area{
+        position: relative;
+        left: 10px !important;
+    }
+    .video{
+        display: none;
+    }
+    .bread{
+        position: relative;
+        left: -15px !important;
+        height: 43vh !important;
+        top: -570px !important;
+    }
+    .download-1{
+        position: relative;
+        left: 100px !important;
+        top: 250px !important;
+    }
+    .download-2{
+        position: relative;
+        left: -5px !important;
+        top: 450px !important;
+    }
+    .download-4{
+        position: relative;
+        left: -105px !important;
+        top: 650px !important;
+    }
+    .look-area{
+        display: none;
+    }
+    .styless{
+        position: relative;
+        left: 20px !important;
+    }
+    .download-3 , .download-5 , .download-6{
+        display: none;
+    }
+    .site{
+        height: 120vh !important;
+        width: 705px !important;
+    }
+    .amount-6{
+        position: relative;
+        left: 20px !important;
+    }
+    .amount-5{
+        position: relative;
+        left: 20px !important;
+    }
+    .pateints{
+        position: relative;
+        top: 700px;
+    }
+    .amount-1{
+        position: relative;
+        top: 320px !important;
+        left: -400px !important;
+    }
+    .amount-3{
+        position: relative;
+        left: -400px !important;
+        top: 320px !important;
+    }
+    .amount-2{
+        position: relative;
+        top: 640px !important;
+        left: -820px;
+    }
+    .amount-4{
+        position: relative;
+        top: 640px !important;
+        left: -820px;
+    }
+    #rite{
+        position: relative;
+        left: 5px !important;
+        top: -660px !important;
+    }
+    .rites-1{
+        position: relative;
+        left: -50px !important;
+    }
+    .rites-2{
+        position: relative;
+        left: -50px !important;
+    }
+    .rites-3{
+        position: relative;
+        left: -50px !important;
+    }
+    .align{
+        position: relative;
+        left: 50px !important;
+    }
+    .scope{
+        position: relative;
+        top: -500px !important;
+        left: -5px !important;
+    }
+    #flask{
+        position: relative;
+        left: 795px !important;
+        top: -1230px !important;
+    }
+    .rites-4{
+        position: relative;
+        top: 800px !important;
+        left: -800px !important;
+    }
+    .rites-5{
+        position: relative;
+        top: 800px !important;
+        left: -800px !important;
+    }
+    .rites-6{
+        position: relative;
+        top: 800px !important;
+        left: -800px !important;
+    }
+    .sited{
+        height: 120vh !important;
+        width: 705px !important;
+    }
+    #border{
+        position: relative;
+        left: 40px !important;
+    }
+    #borders{
+        position: relative;
+        left: 40px !important;
+        top: -2120px !important;
+    }
+    #bordere{
+        position: relative;
+        left: 40px !important;
+        top: -2520px !important;
+    }
+    .category{
+        position: relative;
+        top: 100px !important;
+        left: -800px !important;
+    }
+    .latests{
+        position: relative;
+        top: 100px !important;
+        left: -800px;
+    }
+    #crumb{
+        height: 120vh !important;
+        width: 705px !important;
+    }
+    #floatingInput , #floatingPassword , #floatingTextarea2{
+        width: 270px !important;
+    }
+    #lists-1{
+        position: relative;
+        top: 430px !important;
+        left: -800px !important;
+    }
+    #lists-2{
+        position: relative;
+        top: 430px !important;
+        left: -800px !important;
+    }
+    #lists-3{
+        position: relative;
+        top: 430px !important;
+        left: -800px !important;
+    }
+    #maps{
+        width: 280px !important;
+        height: 60vh !important;
+        position: relative;
+        left: -7px !important;
+    }
+}
+body{
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+.nav-link:hover{
+    background-color: #006cff !important;
+    transition: 0.6s;
+}
+.dropdown-item:hover{
+    background-color: #006cff !important;
+    transition: 0.4s;
+    color: white !important;
+}
+#texts:hover{
+    transition: 0.5s;
+    background-color: #fff !important;
+    color: #006cff !important;
+    cursor: pointer;
+}
+#style:hover{
+    background-color: #081f3e !important;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.bg-transparent:focus{
+    color: #000 !important;
+    transition: 0.4s;
+    cursor: pointer;
+}
+.times:focus{
+    border: 2px solid #006cff !important;
+    transition: 0.4s;
+    cursor: pointer;
+    outline: none;
+}
+.form-control::placeholder{
+    color: rgb(167, 167, 167) !important;
+    font-family: "Poppins", serif;
+}
+#brands:hover{
+    color: #006cff !important;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.email::placeholder{
+    color: #fff !important;
+}
+.email:focus{
+    outline: none;
+}
